@@ -1,0 +1,512 @@
+header {
+    width: 100%;
+    height: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10px;
+    background-image: linear-gradient(black, black);
+    opacity: 96%;
+    color: white;
+}
+
+.logo {
+    font-size: 115px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    margin-top: 540px;
+    margin-left: 290px;
+}
+
+nav li {
+    display: inline-block;
+    list-style: none;
+    padding: 0px 20px;
+    margin-top: 540px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
+    margin-right: 160px;
+
+}
+
+nav li a:hover {
+    color: white;
+    transition: all 0.2s ease 0s;
+    color: green;
+}
+
+.background img {
+    width: 5029px;
+    height: 2400px;
+
+}
+
+li a {
+    color: aliceblue;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #343f4f;
+}
+
+.wrapper {
+    display: inline-flex;
+}
+
+.wrapper .static-txt {
+    font-size: 260px;
+    color: #fff;
+    font-weight: 400;
+    margin-top: -93rem;
+    margin-left: -130rem;
+}
+
+.wrapper .dynamic-txts {
+    margin-left: 15px;
+    line-height: 80px;
+    margin-top: -69rem;
+}
+
+.dynamic-txts li {
+    color: yellow;
+    list-style: none;
+    font-size: 98px;
+    font-weight: 500;
+    margin-left: -330px;
+    margin-top: 70px;
+}
+
+.conatiner {
+    background-color: black;
+    margin-top: -312px;
+}
+
+.Aboutus p {
+    margin-left: 150rem;
+    font-size: 40px;
+    margin-top: 308px;
+    color: #fff;
+}
+
+.para pre {
+    margin-left: 104rem;
+    margin-top: 180px;
+    font-size: 80px;
+    color: #fff
+}
+
+.para button {
+    margin-top: 120px;
+    font-size: 30px;
+    border-radius: 70px;
+    color: #fff;
+    background-color: black;
+    padding: 30px 110px;
+    margin-left: 510px;
+}
+
+.para button:hover {
+    color: black;
+    background-color: white;
+}
+
+.slidetext {
+    font-size: 110px;
+    margin: 300px 300px 140px 160px;
+    color: grey;
+
+}
+
+.hr {
+    margin-left: 69rem;
+    margin-top: 20px;
+}
+
+.viewtext p {
+    margin-left: 69rem;
+    font-size: 80px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.viewtxt p {
+    margin-left: 69rem;
+    font-size: 80px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.viewbtn button {
+    margin-top: 120px;
+    font-size: 30px;
+    border-radius: 70px;
+    color: #fff;
+    background-color: black;
+    padding: 30px 110px;
+    margin-left: 153rem;
+}
+
+.viewbtn button:hover {
+    color: black;
+    background-color: white;
+}
+
+.main p {
+    font-size: 100px;
+    margin-left: 13rem;
+    margin-top: 290px;
+}
+
+.miantext h3 {
+    font-size: 90px;
+    font-family: Gwen Complete Familyss;
+    margin-top: 250px;
+    margin-left: 13rem;
+}
+
+.miantext p {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+    margin-left: 13rem;
+}
+
+.miantext pre {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 13rem;
+}
+
+.miantexts p {
+    font-size: 90px;
+    margin-left: 77rem;
+    margin-top: -400px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.miantexts h3 {
+    font-size: 60px;
+    margin-left: 77rem;
+    margin-top: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.miantexts pre {
+    font-size: 30px;
+    margin-left: 77rem;
+    margin-top: 40px;
+
+}
+
+.miantxts p {
+    font-size: 90px;
+    margin-left: 160rem;
+    margin-top: -396px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.miantxts h3 {
+    font-size: 60px;
+    margin-left: 160rem;
+    margin-top: 80px;
+
+}
+
+.miantxts pre {
+    font-size: 30px;
+    margin-left: 160rem;
+    margin-top: 40px;
+
+}
+
+
+.mantxts p {
+    font-size: 90px;
+    margin-left: 228rem;
+    margin-top: -410px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.mantxts h3 {
+    font-size: 60px;
+    margin-left: 228rem;
+    margin-top: 97px;
+}
+
+.mantxts pre {
+    font-size: 30px;
+    margin-left: 228rem;
+    margin-top: 36px;
+}
+
+.hrs {
+    color: #343f4f;
+    margin-left: 170px;
+    margin-top: 200px;
+}
+
+.imgcnt img {
+    margin-top: 210px;
+    height: 10%;
+    width: 35%;
+    margin-left: 110rem;
+}
+
+.downtxt pre {
+    margin-top: 20rem;
+    margin-left: 110rem;
+    font-size: 42px;
+}
+
+#verticle-line {
+    width: 2px;
+    height: 450px;
+    background-color: grey;
+    margin-left: 170rem;
+    margin-top: -410px;
+
+}
+
+.number pre {
+    font-size: 160px;
+    margin-top: -440px;
+    margin-left: 177rem;
+}
+
+.number p {
+    font-size: 46px;
+    margin-top: 0px;
+    margin-left: 181rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.number1 pre {
+    font-size: 160px;
+    margin-top: 120px;
+    margin-left: 177rem;
+}
+
+.number1 p {
+    font-size: 46px;
+    margin-top: 0px;
+    margin-left: 181rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.number2 pre {
+    font-size: 160px;
+    margin-top: -607px;
+    margin-left: 210rem;
+}
+
+.number2 p {
+    font-size: 46px;
+    margin-top: 0px;
+    margin-left: 210rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.number3 pre {
+    font-size: 160px;
+    margin-top: 120px;
+    margin-left: 214rem;
+}
+
+.number3 p {
+    font-size: 46px;
+    margin-top: 10px;
+    margin-left: 217rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cont1 {
+    background-color: black;
+    height: 130vh;
+    margin-top: 250px;
+}
+
+#contxt pre {
+    color: #fff;
+    margin-top: -188rem;
+    font-size: 80px;
+    margin-left: 100rem;
+
+}
+
+.shortimg img {
+    height: 7%;
+    width: 10%;
+    margin-top: 170px;
+    margin-left: 120rem;
+    border-radius: 40px;
+}
+
+.shortim1 img {
+    height: 50%;
+    width: 12%;
+    margin-top: 290px;
+    margin-left: 30rem;
+    border-radius: 40px;
+
+}
+
+.shorti1 img {
+    height: 10%;
+    width: 9%;
+    margin-top:140px;
+    margin-left: 149rem;
+    border-radius: 40px;
+
+}
+
+.short2 img {
+    height: 7%;
+    width: 10%;
+    margin-top: -10rem;
+    margin-left: 240rem;
+    border-radius: 40px;
+}
+.newArt p{
+    margin-top: 390px;
+    margin-left: 1140px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.newArt button{
+   
+    margin-top: -390px;
+    font-size: 30px;
+    border-radius: 70px;
+    color: black;
+    background-color: white;
+    padding: 30px 110px;
+    margin-left: 240rem;
+}
+.newArt button:hover{
+    color:white;
+    background-color: black;
+}
+.resource img{
+    width: 20%;
+    height: 30%;
+    margin-left:1010px;
+    margin-top: 140px;
+}
+.resour img{
+    width: 20%;
+    height: 5%;
+    margin-left:132rem;
+    margin-top: -990px;
+}
+.res1 img{
+    width: 20%;
+    height: 22%;
+    margin-left: 201rem;
+    margin-top: -80rem
+}
+.parag pre {
+    font-size: 40px;
+    margin-left: 63rem;
+}
+.parag a{
+    margin-left: 63rem;
+    font-size: 40px;
+   margin-top: 20px;
+
+}
+
+.paragb pre {
+    font-size: 40px;
+    margin-left:133rem;
+    margin-top: -240px;
+}
+.paragb a{
+    margin-left: 133rem;
+    font-size: 40px;
+   margin-top: 40px;
+
+}
+
+.paraga pre {
+    font-size: 40px;
+    margin-left:201rem;
+    margin-top: -140px;
+}
+.paraga a{
+    margin-left: 202rem;
+    font-size: 40px;
+   margin-top: 40px;
+
+}
+.conter{
+    background-color: black;
+    height: 80vh;
+    margin-top: 340px;
+}
+.logo1 h3{
+    margin-top: -100rem;
+    margin-left: -90rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer pre{
+    margin-top: -50px;
+    color:white;
+    font-size: 45px;
+    margin-left: 120rem;
+}
+.footer p{
+    margin-top: 70px;
+    color: grey;
+    font-size: 35px;
+    margin-left: 120rem;
+}
+.footer1 pre{
+    color:white;
+    font-size: 45px;
+    margin-top: -620px;
+    margin-left: 170rem;
+}
+.footer1 p{
+    margin-top: 50px;
+    color: grey;
+    font-size: 40px;
+    margin-left: 170rem;
+}
+.footer2 pre{
+    margin-top: -290px;
+    color:white;
+    font-size: 45px;
+}
+.footer2 p{
+    margin-top: 40px;
+    color: grey;
+    font-size: 40px;
+}
+.line{
+    margin-top: 1200px;
+}
+.tagline p{
+    color: grey;
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left: 130px;
+}
+.logo1 {
+    height: 20%;
+    width: 20%;
+    margin-top: -18rem;
+    margin-left: 170rem;
+}
